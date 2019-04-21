@@ -2,11 +2,11 @@
 ## Title: HandyNotes: Tools of the Trade
 ## Notes: Tools of the Trade locations
 ## Author: Imoom
-## Version: 2.3.0
+## Version: 3.0.0
 ## DefaultState: enabled
 ## X-Category: Map
 ## X-eMail: 
-## SavedVariables: HandyNotes_CauldronsDB
+## SavedVariables: HandyNotes_ToolsOfTheTradeDB
 ## RequiredDeps: HandyNotes
 ## Credit: Kemayo
 
