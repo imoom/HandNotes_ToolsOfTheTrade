@@ -1,5 +1,8 @@
 # Changelog
 
+## Changed in v3.1.0
+* Time rift spawnspots added
+
 ## Changed in v3.0.0
 * Name changed to HandyNotes - Tools of the Trade
 * Added Time Rifts for Tailoring
