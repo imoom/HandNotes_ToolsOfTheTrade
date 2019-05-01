@@ -52,17 +52,21 @@ merge(ns.points[895], { -- Tiragarde Sound
 
 merge(ns.points[896], { -- Drustvar
     [23004300] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
+    [26005900] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
     [33002300] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
     [36007200] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
     [46003800] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
     [52082307] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
+    [54003300] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
     [60262107] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
     [63003500] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
+
     })
     
 merge(ns.points[942], { -- Stormsong Valley
+    [27005700] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
     [36007000] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
-    [46404610] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},   
+    [46404610] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
     })
  --  [1183] = { -- Thornheart
  --   },
