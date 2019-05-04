@@ -1,5 +1,8 @@
 # Changelog
 
+## Changed in v3.1.1
+* Spawnspots updated
+
 ## Changed in v3.1.0
 * Time rift spawnspots added
 
