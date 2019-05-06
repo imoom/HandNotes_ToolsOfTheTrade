@@ -81,6 +81,7 @@ ns.points = {
         [47914643] = {["label"] = "Boiling Cauldron", ["cont"] = true, cauldron = true,},
         [48106702] = {["label"] = "Boiling Cauldron", ["cont"] = true, cauldron = true,},
         [49197804] = {["label"] = "Boiling Cauldron", ["cont"] = true, cauldron = true,},
+        [49773110] = {["label"] = "Boiling Cauldron", ["cont"] = true, cauldron = true,},
         [57146439] = {["label"] = "Boiling Cauldron", ["cont"] = true, cauldron = true,},
     },
 
