@@ -1,5 +1,8 @@
 # Changelog
 
+## Changed in v3.3.0
+* Cauldron Spawnspot added
+
 ## Changed in v3.2.0
 * Cauldron Spawnspot added
 
