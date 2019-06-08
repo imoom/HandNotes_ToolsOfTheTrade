@@ -86,6 +86,7 @@ ns.points = {
     },
 
     [895] = { -- Tiragarde Sound
+        [31351816] = {["label"] = "Boiling Cauldron", ["cont"] = true, cauldron = true,},
         [38742186] = {["label"] = "Boiling Cauldron Entrance", ["cont"] = true, cauldron = true,},
         [53133425] = {["label"] = "Boiling Cauldron", ["cont"] = true, cauldron = true,},
         [55816776] = {["label"] = "Boiling Cauldron", ["cont"] = true, cauldron = true,},

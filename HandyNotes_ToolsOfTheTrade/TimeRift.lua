@@ -60,7 +60,7 @@ merge(ns.points[896], { -- Drustvar
     [54003300] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
     [60262107] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
     [63003500] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
-
+    [57004500] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
     })
     
 merge(ns.points[942], { -- Stormsong Valley
