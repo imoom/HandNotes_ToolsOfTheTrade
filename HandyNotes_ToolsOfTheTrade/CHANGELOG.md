@@ -1,5 +1,8 @@
 # Changelog
 
+## Changed in v3.5.0
+* Time rift Spawnspots added/updated
+
 ## Changed in v3.4.0
 * Cauldron spawnspot added
 * Time rift spawnspot added

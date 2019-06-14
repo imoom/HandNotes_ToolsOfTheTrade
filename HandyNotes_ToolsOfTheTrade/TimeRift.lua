@@ -15,12 +15,14 @@ merge(ns.points[862], { -- Zuldazar
 
 merge(ns.points[863], { -- Nazmir
     [26007800] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
+    [27004100] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
     [29505650] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
     [38005800] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
     [38008900] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
     [43002900] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
     [53005600] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
     [55002100] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
+    [57004500] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
    })
 
 merge(ns.points[864], { -- Vol'dun
@@ -60,7 +62,6 @@ merge(ns.points[896], { -- Drustvar
     [54003300] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
     [60262107] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
     [63003500] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
-    [57004500] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
     })
     
 merge(ns.points[942], { -- Stormsong Valley
