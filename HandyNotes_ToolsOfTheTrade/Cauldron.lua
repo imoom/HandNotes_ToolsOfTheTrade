@@ -26,6 +26,8 @@ ns.map_spellids = {
     -- [895] = 0, -- Tiragarde Sound
     -- [896] = 0, -- Drustvar
     -- [942] = 0, -- Stormsong Valley
+    -- [1462] = 0, -- Mechagon
+    -- [1355] = 0, -- Nazjatar
 }
 
 ns.points = {
@@ -59,7 +61,6 @@ ns.points = {
 
     [863] = { -- Nazmir
         [20546109] = {["label"] = "Boiling Cauldron", ["cont"] = true, cauldron = true,},    
-        [33006700] = {["label"] = "Boiling Cauldron, Entrance", ["cont"] = true, cauldron = true,},
         [34098598] = {["label"] = "Boiling Cauldron", ["cont"] = true, cauldron = true,},
         [38475193] = {["label"] = "Boiling Cauldron", ["cont"] = true, cauldron = true,},
         [40266348] = {["label"] = "Boiling Cauldron", ["cont"] = true, cauldron = true,},
@@ -76,7 +77,6 @@ ns.points = {
         [34817984] = {["label"] = "Boiling Cauldron", ["cont"] = true, cauldron = true,},
         [37288906] = {["label"] = "Boiling Cauldron", ["cont"] = true, cauldron = true,},
         [40317529] = {["label"] = "Boiling Cauldron", ["cont"] = true, cauldron = true,},
-        [41002800] = {["label"] = "Boiling Cauldron", ["cont"] = true, cauldron = true,},
         [43753430] = {["label"] = "Boiling Cauldron", ["cont"] = true, cauldron = true,},
         [47914643] = {["label"] = "Boiling Cauldron", ["cont"] = true, cauldron = true,},
         [48106702] = {["label"] = "Boiling Cauldron", ["cont"] = true, cauldron = true,},
@@ -128,5 +128,11 @@ ns.points = {
     [1161] = { -- Boralus
     },
     [1165] = { -- Dazar'alor
+    },
+    [1462] = { --Mechagon
+        [23106951] = {["label"] = "Boiling Cauldron", ["cont"] = true, cauldron = true,},     
+        [57602680] = {["label"] = "Boiling Cauldron", ["cont"] = true, cauldron = true,},
+    },
+    [1355] = { --Nazjatar
     },
 }
