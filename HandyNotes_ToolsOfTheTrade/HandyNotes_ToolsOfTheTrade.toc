@@ -1,4 +1,4 @@
-## Interface: 80100
+## Interface: 80200
 ## Title: HandyNotes: Tools of the Trade
 ## Notes: Tools of the Trade locations
 ## Author: Imoom
