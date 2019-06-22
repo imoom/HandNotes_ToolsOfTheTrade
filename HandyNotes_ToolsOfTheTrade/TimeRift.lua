@@ -75,9 +75,9 @@ merge(ns.points[942], { -- Stormsong Valley
  --   },
  --   [1165] = { -- Dazar'alor
  --   },
-merge(ns.points[1462] = { --Mechagon
+merge(ns.points[1462], { --Mechagon
     })
-merge(ns.points[1355] = { --Nazjatar
+merge(ns.points[1355], { --Nazjatar
     [43908659] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
     [47457585] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
     [62455722] = {["label"] = "Time Rift", ["cont"] = true, timeRift = true,},
