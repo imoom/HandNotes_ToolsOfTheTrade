@@ -1,4 +1,6 @@
 # Changelog
+## Changed in v4.0.0
+* Spawnspots added for 8.2 content
 
 ## Changed in v3.5.0
 * Time rift Spawnspots added/updated
