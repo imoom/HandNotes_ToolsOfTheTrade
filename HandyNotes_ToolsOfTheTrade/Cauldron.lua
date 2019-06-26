@@ -130,6 +130,7 @@ ns.points = {
     [1165] = { -- Dazar'alor
     },
     [1462] = { --Mechagon
+        [16058463] = {["label"] = "Boiling Cauldron", ["cont"] = true, cauldron = true,},
         [23106951] = {["label"] = "Boiling Cauldron", ["cont"] = true, cauldron = true,},     
         [57602680] = {["label"] = "Boiling Cauldron", ["cont"] = true, cauldron = true,},
     },
