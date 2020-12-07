@@ -50,15 +50,16 @@ local trimmed_icon = function(texture)
 end
 
 local atlas_texture = function(atlas, scale)
-    local texture, _, _, left, right, top, bottom = GetAtlasInfo(atlas)
-    return {
-        icon = texture,
-        tCoordLeft = left,
-        tCoordRight = right,
-        tCoordTop = top,
-        tCoordBottom = bottom,
-        scale = scale or 1,
-    }
+  --local texture, _, _, left, right, top, bottom = GetAtlasInfo(atlas)
+  local atlasInfo = C_Texture.GetAtlasInfo(atlas);
+  return {
+    icon = atlasInfo.file,
+    tCoordLeft = atlasInfo.leftTexCoord,
+    tCoordRight = atlasInfo.rightTexCoord,
+    tCoordTop = atlasInfo.topTexCoord,
+    tCoordBottom = atlasInfo.bottomTexCoord,
+    scale = scale or 1,
+  }
 end
 
 local function work_out_label(point)
